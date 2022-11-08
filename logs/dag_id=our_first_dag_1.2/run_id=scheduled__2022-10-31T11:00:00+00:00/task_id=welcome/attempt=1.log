@@ -1,0 +1,24 @@
+[2022-11-08T12:31:39.543+0530] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: our_first_dag_1.2.welcome scheduled__2022-10-31T11:00:00+00:00 [queued]>
+[2022-11-08T12:31:39.547+0530] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: our_first_dag_1.2.welcome scheduled__2022-10-31T11:00:00+00:00 [queued]>
+[2022-11-08T12:31:39.547+0530] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-08T12:31:39.547+0530] {taskinstance.py:1363} INFO - Starting attempt 1 of 4
+[2022-11-08T12:31:39.547+0530] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-08T12:31:39.555+0530] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): welcome> on 2022-10-31 11:00:00+00:00
+[2022-11-08T12:31:39.556+0530] {standard_task_runner.py:55} INFO - Started process 8106 to run task
+[2022-11-08T12:31:39.558+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'our_first_dag_1.2', 'welcome', 'scheduled__2022-10-31T11:00:00+00:00', '--job-id', '11', '--raw', '--subdir', '/home/haldia/office/dags/first_script_Python_operator.py', '--cfg-path', '/tmp/tmpeoivpo7b']
+[2022-11-08T12:31:39.559+0530] {standard_task_runner.py:83} INFO - Job 11: Subtask welcome
+[2022-11-08T12:31:39.581+0530] {task_command.py:376} INFO - Running <TaskInstance: our_first_dag_1.2.welcome scheduled__2022-10-31T11:00:00+00:00 [running]> on host haldia-Katana-GF66-11UD
+[2022-11-08T12:31:39.605+0530] {taskinstance.py:1590} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=haldi
+AIRFLOW_CTX_DAG_ID=our_first_dag_1.2
+AIRFLOW_CTX_TASK_ID=welcome
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-31T11:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-10-31T11:00:00+00:00
+[2022-11-08T12:31:39.605+0530] {logging_mixin.py:120} INFO - welcome to airflow
+[2022-11-08T12:31:39.605+0530] {python.py:177} INFO - Done. Returned value was: None
+[2022-11-08T12:31:39.608+0530] {taskinstance.py:1401} INFO - Marking task as SUCCESS. dag_id=our_first_dag_1.2, task_id=welcome, execution_date=20221031T110000, start_date=20221108T070139, end_date=20221108T070139
+[2022-11-08T12:31:39.649+0530] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-11-08T12:31:39.656+0530] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

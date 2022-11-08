@@ -1,0 +1,196 @@
+[2022-11-08T12:31:23.510+0530] {processor.py:154} INFO - Started process (PID=8014) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:31:23.510+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:31:23.511+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:31:23.510+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:31:23.520+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:31:23.532+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:31:23.532+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:31:23.541+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:31:23.541+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-04T11:00:00+00:00, run_after=2022-11-05T11:00:00+00:00
+[2022-11-08T12:31:23.560+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.053 seconds
+[2022-11-08T12:31:55.657+0530] {processor.py:154} INFO - Started process (PID=8176) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:31:55.667+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:31:55.668+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:31:55.667+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:31:55.675+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:31:55.687+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:31:55.687+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:31:55.698+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:31:55.698+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:31:55.708+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.053 seconds
+[2022-11-08T12:32:27.585+0530] {processor.py:154} INFO - Started process (PID=8275) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:32:27.595+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:32:27.595+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:32:27.595+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:32:27.603+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:32:27.615+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:32:27.615+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:32:27.625+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:32:27.625+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:32:27.635+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.052 seconds
+[2022-11-08T12:32:59.577+0530] {processor.py:154} INFO - Started process (PID=8370) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:32:59.577+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:32:59.577+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:32:59.577+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:32:59.584+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:32:59.596+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:32:59.596+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:32:59.605+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:32:59.605+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:32:59.614+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.039 seconds
+[2022-11-08T12:33:30.981+0530] {processor.py:154} INFO - Started process (PID=8570) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:33:30.991+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:33:30.992+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:33:30.992+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:33:30.999+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:33:31.012+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:33:31.012+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:33:31.023+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:33:31.022+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:33:31.033+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.053 seconds
+[2022-11-08T12:34:01.839+0530] {processor.py:154} INFO - Started process (PID=8665) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:34:01.840+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:34:01.841+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:34:01.841+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:34:01.852+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:34:01.864+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:34:01.864+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:34:01.873+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:34:01.873+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:34:01.882+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.049 seconds
+[2022-11-08T12:34:32.715+0530] {processor.py:154} INFO - Started process (PID=8753) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:34:32.725+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:34:32.727+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:34:32.726+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:34:32.743+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:34:32.755+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:34:32.755+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:34:32.764+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:34:32.764+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:34:32.773+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.060 seconds
+[2022-11-08T12:35:03.565+0530] {processor.py:154} INFO - Started process (PID=8885) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:35:03.566+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:35:03.567+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:35:03.567+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:35:03.575+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:35:03.588+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:35:03.588+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:35:03.599+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:35:03.598+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:35:03.610+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.046 seconds
+[2022-11-08T12:35:34.494+0530] {processor.py:154} INFO - Started process (PID=8996) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:35:34.496+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:35:34.497+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:35:34.497+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:35:34.510+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:35:34.521+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:35:34.521+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:35:34.530+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:35:34.529+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:35:34.606+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.117 seconds
+[2022-11-08T12:36:05.835+0530] {processor.py:154} INFO - Started process (PID=9074) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:36:05.846+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:36:05.847+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:36:05.847+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:36:05.865+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:36:05.876+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:36:05.876+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:36:05.885+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:36:05.885+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:36:05.962+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.128 seconds
+[2022-11-08T12:36:36.795+0530] {processor.py:154} INFO - Started process (PID=9146) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:36:36.805+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:36:36.806+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:36:36.806+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:36:36.825+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:36:36.836+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:36:36.836+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:36:36.911+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:36:36.911+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:36:36.921+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.127 seconds
+[2022-11-08T12:37:08.140+0530] {processor.py:154} INFO - Started process (PID=9216) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:37:08.151+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:37:08.152+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:37:08.151+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:37:08.169+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:37:08.181+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:37:08.181+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:37:08.260+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:37:08.260+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:37:08.269+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.130 seconds
+[2022-11-08T12:37:39.748+0530] {processor.py:154} INFO - Started process (PID=9292) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:37:39.749+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:37:39.750+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:37:39.750+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:37:39.760+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:37:39.770+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:37:39.770+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:37:39.844+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:37:39.844+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:37:39.854+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.108 seconds
+[2022-11-08T12:38:11.315+0530] {processor.py:154} INFO - Started process (PID=9360) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:38:11.326+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:38:11.327+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:38:11.327+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:38:11.346+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:38:11.422+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:38:11.422+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:38:11.430+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:38:11.430+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:38:11.439+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.127 seconds
+[2022-11-08T12:38:42.801+0530] {processor.py:154} INFO - Started process (PID=9528) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:38:42.811+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:38:42.813+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:38:42.812+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:38:42.830+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:38:42.917+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:38:42.916+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:38:42.926+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:38:42.926+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:38:42.935+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.136 seconds
+[2022-11-08T12:39:14.221+0530] {processor.py:154} INFO - Started process (PID=9605) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:39:14.231+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:39:14.232+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:39:14.232+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:39:14.239+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:39:14.328+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:39:14.328+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:39:14.337+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:39:14.337+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:39:14.347+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.127 seconds
+[2022-11-08T12:39:45.781+0530] {processor.py:154} INFO - Started process (PID=9670) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:39:45.792+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:39:45.794+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:39:45.793+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:39:45.811+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:39:45.888+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:39:45.888+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:39:45.896+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:39:45.895+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:39:45.904+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.128 seconds
+[2022-11-08T12:40:17.035+0530] {processor.py:154} INFO - Started process (PID=9735) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:40:17.046+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:40:17.047+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:40:17.047+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:40:17.132+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:40:17.141+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:40:17.141+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:40:17.149+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:40:17.149+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:40:17.158+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.125 seconds
+[2022-11-08T12:40:48.529+0530] {processor.py:154} INFO - Started process (PID=9869) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:40:48.540+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:40:48.542+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:40:48.541+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:40:48.624+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:40:48.634+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:40:48.633+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:40:48.643+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:40:48.643+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:40:48.652+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.128 seconds
+[2022-11-08T12:41:19.808+0530] {processor.py:154} INFO - Started process (PID=9942) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:41:19.809+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:41:19.810+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:41:19.810+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:41:19.823+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:41:19.834+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:41:19.834+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:41:19.844+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:41:19.844+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:41:19.853+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.050 seconds
+[2022-11-08T12:41:50.617+0530] {processor.py:154} INFO - Started process (PID=10032) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:41:50.628+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:41:50.629+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:41:50.629+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:41:50.647+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:41:50.659+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:41:50.659+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:41:50.668+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:41:50.668+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:41:50.677+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.065 seconds
+[2022-11-08T12:42:21.425+0530] {processor.py:154} INFO - Started process (PID=10118) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:42:21.436+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:42:21.437+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:42:21.437+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:42:21.455+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:42:21.467+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:42:21.467+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:42:21.476+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:42:21.476+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:42:21.485+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.061 seconds
+[2022-11-08T12:42:52.317+0530] {processor.py:154} INFO - Started process (PID=10194) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:42:52.328+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:42:52.329+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:42:52.329+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:42:52.347+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:42:52.359+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:42:52.359+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:42:52.368+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:42:52.368+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:42:52.376+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.061 seconds
+[2022-11-08T12:43:23.170+0530] {processor.py:154} INFO - Started process (PID=10317) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:43:23.171+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:43:23.171+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:43:23.171+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:43:23.178+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:43:23.189+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:43:23.189+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:43:23.198+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:43:23.198+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:43:23.208+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.040 seconds
+[2022-11-08T12:43:54.064+0530] {processor.py:154} INFO - Started process (PID=10517) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:43:54.074+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:43:54.075+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:43:54.074+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:43:54.083+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:43:54.095+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:43:54.095+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:43:54.106+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:43:54.106+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:43:54.117+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.055 seconds
+[2022-11-08T12:44:24.900+0530] {processor.py:154} INFO - Started process (PID=10609) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:44:24.911+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:44:24.912+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:44:24.912+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:44:24.922+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:44:24.933+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:44:24.933+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:44:24.942+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:44:24.942+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:44:24.951+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.053 seconds
+[2022-11-08T12:44:55.674+0530] {processor.py:154} INFO - Started process (PID=11085) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:44:55.674+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:44:55.674+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:44:55.674+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:44:55.686+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:44:55.697+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:44:55.697+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:44:55.705+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:44:55.705+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:44:55.715+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.044 seconds
+[2022-11-08T12:45:27.451+0530] {processor.py:154} INFO - Started process (PID=11166) to work on /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:45:27.461+0530] {processor.py:756} INFO - Processing file /home/haldia/office/dags/our_first_dag.py for tasks to queue
+[2022-11-08T12:45:27.462+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:45:27.462+0530] {dagbag.py:537} INFO - Filling up the DagBag from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:45:27.480+0530] {processor.py:766} INFO - DAG(s) dict_keys(['our_first_dag_112d']) retrieved from /home/haldia/office/dags/our_first_dag.py
+[2022-11-08T12:45:27.491+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:45:27.491+0530] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-08T12:45:27.501+0530] {logging_mixin.py:120} INFO - [2022-11-08T12:45:27.501+0530] {dag.py:3336} INFO - Setting next_dagrun for our_first_dag_112d to 2022-11-07T11:00:00+00:00, run_after=2022-11-08T11:00:00+00:00
+[2022-11-08T12:45:27.510+0530] {processor.py:176} INFO - Processing /home/haldia/office/dags/our_first_dag.py took 0.063 seconds

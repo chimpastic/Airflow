@@ -1,0 +1,28 @@
+[2022-11-03T17:21:12.714+0530] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: our_first_dag_112d.first_task manual__2022-11-03T11:51:10.845350+00:00 [queued]>
+[2022-11-03T17:21:12.717+0530] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: our_first_dag_112d.first_task manual__2022-11-03T11:51:10.845350+00:00 [queued]>
+[2022-11-03T17:21:12.717+0530] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-03T17:21:12.717+0530] {taskinstance.py:1363} INFO - Starting attempt 1 of 4
+[2022-11-03T17:21:12.717+0530] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-03T17:21:12.723+0530] {taskinstance.py:1383} INFO - Executing <Task(BashOperator): first_task> on 2022-11-03 11:51:10.845350+00:00
+[2022-11-03T17:21:12.724+0530] {standard_task_runner.py:55} INFO - Started process 25108 to run task
+[2022-11-03T17:21:12.725+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'our_first_dag_112d', 'first_task', 'manual__2022-11-03T11:51:10.845350+00:00', '--job-id', '5', '--raw', '--subdir', '/home/haldia/office/dags/our_first_dag.py', '--cfg-path', '/tmp/tmp5r7rgwyd']
+[2022-11-03T17:21:12.726+0530] {standard_task_runner.py:83} INFO - Job 5: Subtask first_task
+[2022-11-03T17:21:12.744+0530] {task_command.py:376} INFO - Running <TaskInstance: our_first_dag_112d.first_task manual__2022-11-03T11:51:10.845350+00:00 [running]> on host haldia-Katana-GF66-11UD
+[2022-11-03T17:21:12.771+0530] {taskinstance.py:1590} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=haldi
+AIRFLOW_CTX_DAG_ID=our_first_dag_112d
+AIRFLOW_CTX_TASK_ID=first_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-03T11:51:10.845350+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-11-03T11:51:10.845350+00:00
+[2022-11-03T17:21:12.771+0530] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2022-11-03T17:21:12.771+0530] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'echo hello ajc']
+[2022-11-03T17:21:12.774+0530] {subprocess.py:86} INFO - Output:
+[2022-11-03T17:21:12.774+0530] {subprocess.py:93} INFO - hello ajc
+[2022-11-03T17:21:12.774+0530] {subprocess.py:97} INFO - Command exited with return code 0
+[2022-11-03T17:21:12.782+0530] {taskinstance.py:1401} INFO - Marking task as SUCCESS. dag_id=our_first_dag_112d, task_id=first_task, execution_date=20221103T115110, start_date=20221103T115112, end_date=20221103T115112
+[2022-11-03T17:21:12.817+0530] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-11-03T17:21:12.826+0530] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
